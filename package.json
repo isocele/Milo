@@ -1,0 +1,12 @@
+{
+  "name": "Milo",
+  "version": "1.0.0",
+  "description": "An app following and helping users to acheive difficult goals",
+  "main": "index.js",
+  "repository": "git@github.com:isocele/Milo.git",
+  "author": "hugo.chollet@epitech.eu",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.60.6"
+  }
+}
